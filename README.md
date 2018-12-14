@@ -1,0 +1,2 @@
+# libft
+Just do make
