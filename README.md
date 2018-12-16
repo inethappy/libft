@@ -1,3 +1,2 @@
 # libft
-Just do make
-lalala
+Libft_evaluation version
